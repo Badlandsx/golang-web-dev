@@ -1,0 +1,25 @@
+Here is the team
+// Functions template.FuncMap or predefined functions
+- name: LUKA DONCIC - poste: 1 (The best player in the world)
+- name: KYRIE IRVING - poste: 1 
+
+
+// Representation of the team (via functions)
+
+	  Name: Dallas Mavericks,
+	  Players: [{Luka Doncic 1} {Kyrie Irving 1}]
+	
+
+// Via method on team struct
+
+	  Name: Dallas Mavericks,
+	  Players: [{Luka Doncic 1} {Kyrie Irving 1}]
+	
+
+25259-1125-2525
+
+Test1
+
+
+
+Denver champion NBA 2023
